@@ -1,0 +1,13 @@
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.exe
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.deps.json
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.runtimeconfig.json
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.runtimeconfig.dev.json
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.dll
+D:\sandbox\Анкета\Анкета\bin\Debug\netcoreapp3.1\Анкета.pdb
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.AssemblyInfoInputs.cache
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.AssemblyInfo.cs
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.csproj.CoreCompileInputs.cache
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.dll
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.pdb
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.genruntimeconfig.cache
+D:\sandbox\Анкета\Анкета\obj\Debug\netcoreapp3.1\Анкета.csprojAssemblyReference.cache

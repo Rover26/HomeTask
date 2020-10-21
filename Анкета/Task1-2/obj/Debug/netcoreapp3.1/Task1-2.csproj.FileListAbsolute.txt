@@ -1,0 +1,13 @@
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.exe
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.deps.json
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.runtimeconfig.json
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.runtimeconfig.dev.json
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.dll
+D:\sandbox\Анкета\Task1-2\bin\Debug\netcoreapp3.1\Task1-2.pdb
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.csprojAssemblyReference.cache
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.AssemblyInfoInputs.cache
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.AssemblyInfo.cs
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.csproj.CoreCompileInputs.cache
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.dll
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.pdb
+D:\sandbox\Анкета\Task1-2\obj\Debug\netcoreapp3.1\Task1-2.genruntimeconfig.cache
